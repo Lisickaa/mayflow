@@ -1,3 +1,4 @@
 # mayflow
 musor
 .metadata
+.cls
